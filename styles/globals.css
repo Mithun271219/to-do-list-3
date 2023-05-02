@@ -1,0 +1,14 @@
+/* * {
+    border: 1px solid red;
+} */
+
+
+.mycard {
+    display: grid;
+    align-items: center;
+    height: 100vh;
+}
+
+.table {
+    text-align: center;
+}
